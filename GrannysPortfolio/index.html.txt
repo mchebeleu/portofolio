@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Granny's Portfolio</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Granny's Portfolio</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#gallery">Gallery</a></li>
+            <li><a href="#about">About Me</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <section id="home">
+        <h2>Home</h2>
+        <p>Welcome to my portfolio website, dear ones!</p>
+        <!-- Slideshow goes here -->
+    </section>
+
+    <section id="gallery">
+        <h2>Gallery</h2>
+        <div class="gallery">
+            <!-- Images go here -->
+        </div>
+    </section>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>I am your loving Granny, sharing memories with you!</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Send me a message to stay in touch!</p>
+        <!-- Contact form goes here -->
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Granny's Portfolio</p>
+    </footer>
+</body>
+</html>
